@@ -17,8 +17,8 @@ canvas {
     background-color: #fff;
     margin-top: 20px;
     cursor: crosshair;
-    width: 500px;
-    height: 500px;
+    width: 700px;
+    height: 700px;
     touch-action: none;
     /* Prevent scrolling on touch devices */
 }
